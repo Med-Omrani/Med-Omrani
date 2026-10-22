@@ -29,6 +29,13 @@ Currently looking for an embedded role on a physical product — Tunisia or Euro
 | **[live-object-detection](https://github.com/Med-Omrani/live-object-detection)** | Real-time object detection from a USB camera on a Raspberry Pi, YOLO exported to NCNN — CPU only, no accelerator. |
 | **[access-code-lock](https://github.com/Med-Omrani/access-code-lock)** | Digital combination lock in VHDL on an Intel MAX 10: keypad scan, debouncing, 7-segment output, lockout. |
 
+Also on this profile: **[fleet-management](https://github.com/Med-Omrani/fleet-management)**
+(drivers, vehicles and trailers — Spring Boot, Angular, MongoDB),
+**[shipment-tracking](https://github.com/Med-Omrani/shipment-tracking)** (parcel custody
+on Ethereum), **[digit-recognition](https://github.com/Med-Omrani/digit-recognition)**
+(TensorFlow Lite on a Pi) and **[jobhunter](https://github.com/Med-Omrani/jobhunter)**
+(self-hosted job-hunting platform — Flutter, Node, Postgres, Docker).
+
 ## Toolbox
 
 `C` · `STM32 HAL/LL` · `FreeRTOS` · `I²C / SPI / UART / CAN` · `Python` ·
